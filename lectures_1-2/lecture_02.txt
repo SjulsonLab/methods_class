@@ -1,0 +1,11 @@
+Additional notes from lecture 2:
+
+- if you copy large data files, especially over the network, use
+robocopy on windows or rsync on mac/linux. These programs copy
+your files and verify that they were copied without errors. The
+regular copy-by-dragging-folder method corrupts files surprisingly
+often.
+
+
+Link to recording of lecture 2:
+https://einsteinmed.zoom.us/rec/share/vMlEP57NyEJIWNbT-EGCBKgwNavKX6a8hnUYqaBfnR6xpWNanEnSAMQaEg2E7Ovo
