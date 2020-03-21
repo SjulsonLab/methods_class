@@ -6,6 +6,8 @@ your files and verify that they were copied without errors. The
 regular copy-by-dragging-folder method corrupts files surprisingly
 often.
 
+- It is worth repeating: the failure rate of hard drives is 100%.
+
 
 Link to recording of lecture 2:
 https://einsteinmed.zoom.us/rec/share/vMlEP57NyEJIWNbT-EGCBKgwNavKX6a8hnUYqaBfnR6xpWNanEnSAMQaEg2E7Ovo
