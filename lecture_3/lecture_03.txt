@@ -1,0 +1,34 @@
+Additional notes for lecture 3 (i.e. things I forgot to mention):
+
+- one of the big limitations of almost all electrode-based ephys
+approaches is that they are only stable for a limited period of time.
+For intracellular recordings, a couple of hours at best. For 
+extracellular recordings, they could be stable for much longer 
+than that, but unless you record continuously 24 hrs/day, it is
+impossible to know whether the units you see on Tuesday were the
+same ones you saw on Monday. So one major advantage of calcium
+imaging is the possibility of tracking the same cells longitudinally
+over time, which is useful for studying learning, memory, drug
+addiction, etc.
+
+- I forgot to talk about this, but the newest electrode technology
+for extracellular recordings is to make electrodes printed on 
+flexible plastic coils. You wrap the flexible coils around a thin
+needle and attach them with water-soluble nontoxic glue. Then you
+insert the needle into the brain, allow the glue to dissolve, and 
+pull the needle out. The flexibility of the electrodes approximately
+matches the mechanical properties of the brain, so they flex and 
+move with the brain tissue. In some studies, the electrodes were 
+still working perfectly after six months of recording, and it is
+possible they would be stable for years. It is worth pointing out
+that previous studies have found that the main cause of gliosis 
+and cell death around electrode sites is the chronic motion of 
+the electrode back and forth, mechanically traumatizing the tissue. 
+
+- I am also including the PDF of the Delgado paper from 1970
+showing wireless recordings in a freely moving chimpanzee.
+
+Link to recording of lecture 3:
+https://einsteinmed.zoom.us/rec/share/y5AkC-zL2V1IXYGRuWrWGbZiPYK_T6a80CMd_vAEnkzlo4dcbw3CQrJVG_edQlVw
+
+
