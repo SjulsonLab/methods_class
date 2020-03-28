@@ -1,3 +1,5 @@
+Lecture 2: sampling, filtering, convolution, and digital data formats
+
 Additional notes from lecture 2:
 
 - if you copy large data files, especially over the network, use

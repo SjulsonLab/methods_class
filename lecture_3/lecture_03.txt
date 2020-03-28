@@ -1,3 +1,8 @@
+Lecture 3: basics of electrophysiology
+
+Link to recording of lecture 3:
+https://einsteinmed.zoom.us/rec/share/y5AkC-zL2V1IXYGRuWrWGbZiPYK_T6a80CMd_vAEnkzlo4dcbw3CQrJVG_edQlVw
+
 Additional notes for lecture 3 (i.e. things I forgot to mention):
 
 - one of the big limitations of almost all electrode-based ephys
@@ -28,7 +33,5 @@ the electrode back and forth, mechanically traumatizing the tissue.
 - I am also including the PDF of the Delgado paper from 1970
 showing wireless recordings in a freely moving chimpanzee.
 
-Link to recording of lecture 3:
-https://einsteinmed.zoom.us/rec/share/y5AkC-zL2V1IXYGRuWrWGbZiPYK_T6a80CMd_vAEnkzlo4dcbw3CQrJVG_edQlVw
 
 

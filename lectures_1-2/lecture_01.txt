@@ -1,2 +1,4 @@
+Lecture 1: signals and data acquisition hardware
+
 Link to lecture 1 recording: 
 https://einsteinmed.zoom.us/rec/share/wspaJaivyjlLeK_M5BvPRah9Lp__X6a8g3NI-vRfyB57suy8-fvnhCOQO-JeZbVc
