@@ -1,0 +1,14 @@
+Link for recording of lecture 5: 
+
+https://einsteinmed.zoom.us/rec/share/u-BxP7bU9kFJAbPB0nnRRIIaJqWieaa8hCAcrqVbxBuCsxTZl1bM9YEksKURmIel 
+
+Tiago's notes:
+- many FPs have significant pH sensitivity (e.g. Citrine)
+- FPs can show "blinking" behavior, where their light output goes up and down
+(interesting biophysics but not relevant in most neuroscience applications
+- DsRed and some red FP's start off green and slowly mature into the red state.
+Most modern RFP's don't have this issue.
+- another important factor complicating analysis of GCaMP data is when there is 
+heterogeneous GCaMP expression across the cell population, e.g. if you 
+use AAV.
+
