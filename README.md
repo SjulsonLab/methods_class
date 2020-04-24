@@ -5,7 +5,7 @@ The class meets on Tuesdays and Thursdays from 10:30 AM - 12:30 PM, US Eastern t
 Please see syllabus for details. All course materials are under the "code" tab,
 or the "View code" folder if you're on a mobile device.
 
-THE NEXT CLASS WILL BE ON APRIL 21!
+LECTURES 8-9 now posted!
 
 The zoom link for the live lectures is: https://einsteinmed.zoom.us/j/780708709
 
