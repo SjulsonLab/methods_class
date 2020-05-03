@@ -13,6 +13,8 @@ If there are any questions or problems, or if you note any inaccuracies
 or important omissions, email luke@sjulsonlab.org
 
 Lecture 1: Signals and data acquisition hardware
+(note: Lecture 1 is a little rough, but the subsequent ones are more 
+polished)
 https://einsteinmed.zoom.us/rec/share/wspaJaivyjlLeK_M5BvPRah9Lp__X6a8g3NI-vRfyB57suy8-fvnhCOQO-JeZbVc
 
 Lecture 2: Sampling, filtering, convolution, digital data formats
