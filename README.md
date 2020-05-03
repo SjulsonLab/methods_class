@@ -1,5 +1,5 @@
 # methods_class
-Website for "Approaches to Study Neural Circuits"
+Approaches to Study Neural Circuits
 
 The class is now finished. All 11 lectures are recorded and available 
 to watch. All course materials, including assigned readings and 
@@ -7,10 +7,9 @@ lecture slides, are under the "code" tab, or in the "View code" folder
 if you're on a mobile device.
 
 We have done our best to ensure all of the course material is accurate,
-but any necessary corrections will be in each lecture folder.
-
-If there are any questions or problems, or if you note any inaccuracies
-or important omissions, email luke@sjulsonlab.org
+but any necessary corrections will be in each lecture folder. If there
+are any questions or problems, or if you note any inaccuracies or 
+important omissions, email luke@sjulsonlab.org
 
 Lecture 1: Signals and data acquisition hardware
 (note: Lecture 1 is a little rough, but the subsequent ones are more 
