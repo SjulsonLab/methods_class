@@ -2,3 +2,10 @@ Lecture 1: signals and data acquisition hardware
 
 Link to lecture 1 recording: 
 https://einsteinmed.zoom.us/rec/share/wspaJaivyjlLeK_M5BvPRah9Lp__X6a8g3NI-vRfyB57suy8-fvnhCOQO-JeZbVc
+
+An important practical point that separates the novices
+from the experts:
+
+Never place anything electrical on the floor. Labs flood
+routinely. Buy platforms to elevate your equipment
+by 10 cm off the floor.
