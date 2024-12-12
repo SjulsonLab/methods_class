@@ -47,9 +47,8 @@ https://einsteinmed.zoom.us/rec/share/5vVPPp_S8GNIWbPx63DQdZR4EKG0X6a8hCMdr_AOnk
 Lecture 11: High throughput microscopy and brain clearing
 https://einsteinmed.zoom.us/rec/share/6-dRD5zv7mRIRZ3yynv1Ao8eF7nJaaa8gyQcrKcEmE-CFx-8km5ET0Qu3ki4Iy_x
 
-
-
-
+Lecture 12: Experimental design (new lecture added in 2024)
+https://youtu.be/0VhXJMyT4Ik
 
 
 
