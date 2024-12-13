@@ -1,7 +1,7 @@
 # methods_class
 Approaches to Study Neural Circuits
 
-The class is now finished. All 11 lectures are recorded and available 
+The class is now finished. All 12 lectures are recorded and available 
 to watch. All course materials, including assigned readings and 
 lecture slides, are under the "code" tab, or in the "View code" folder
 if you're on a mobile device.
